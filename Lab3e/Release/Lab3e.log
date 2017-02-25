@@ -1,0 +1,26 @@
+﻿Build started 08/05/2015 23:42:15.
+     1>Project "D:\Users\Finlay\Documents\University\Second Year\Architecture\Coursework\Lab3e\Lab3e.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp Scene3D.cpp
+         Main.cpp
+         Scene3D.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\Finlay\Documents\University\Second Year\Architecture\Coursework\Release\Lab3e.exe" /NOLOGO winmm.lib Msimg32.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\Finlay\Documents\University\Second Year\Architecture\Coursework\Release\Lab3e.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\Finlay\Documents\University\Second Year\Architecture\Coursework\Release\Lab3e.lib" /MACHINE:X86 /SAFESEH Release\Camera.obj
+         Release\Farm.obj
+         Release\mandelbrot.obj
+         Release\MandelbrotTask.obj
+         Release\Scene3D.obj
+         Release\Input.obj
+         Release\Main.obj
+         Release\Task.obj
+         Release\timerclass.obj
+         Release\TokenStream.obj
+         Release\Vec3.obj
+         Generating code
+         Finished generating code
+         Lab3e.vcxproj -> D:\Users\Finlay\Documents\University\Second Year\Architecture\Coursework\Release\Lab3e.exe
+     1>Done Building Project "D:\Users\Finlay\Documents\University\Second Year\Architecture\Coursework\Lab3e\Lab3e.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.59
